@@ -54,6 +54,8 @@ For this part we create a map plotting all the random cities in the map. The poi
 
 ![Cities in the world](/Weatherpy/output_data/Images/Cities_around_the_world.png) 
 
+For visual purposes here is a zoom of a region with cities with very different humidities plotted. 
+
 ![Zoom of the cities plots](/Weatherpy/output_data/Images/Zoom_cities_w_humidity.png)
 
 From this set I chose a vacation place with the following characteristics: a maximum temperature between 60 an 95 Farenheit degrees, with humidity levels less than 60% and cloudiness near to zero (<5%).
