@@ -19,7 +19,7 @@ The model selectd 600 random latitudes that correspondede to 540 valid cities an
 
 We were asked to plot the relations between Latitude and other weather factors as: max temperature, humidity, cloudiness and wind speed and show the linear relation between these variables. As an example we include here the graph comparing Latitude vs Temperrature for the entire sample.  
 
-![Regression Latitude vs Temperature](./Weatherpy/output_data/Images/Lat_vs_Temp_total.png)
+![Regression Latitude vs Temperature](./Weatherpy/output_data/Images/Lat_vs_Temp_Total.png)
 
 # Latitude vs
 ## Temperature
@@ -53,7 +53,7 @@ For this part we create a map plotting all the random cities in the map. The poi
 
 ![Cities in the world](/Weatherpy/output_data/Images/Cities_around_the_world.png) 
 
-![Zoom of the cities plots](/Weatherpy/output_data/Images/Zoom_cities_vs_Humidity.png)
+![Zoom of the cities plots](/Weatherpy/output_data/Images/Zoom_cities_w_humidity.png)
 
 From this set I chose a vacation place with the following characteristics: a maximum temperature between 60 an 95 Farenheit degrees, with humidity levels less than 60% and cloudiness near to zero (<5%).
 
