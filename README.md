@@ -48,7 +48,8 @@ We were asked to plot the relations between Latitude and other weather factors a
 ![Regression Northern Hemisphere](/Weatherpy/output_data/Images/Lat_vs_Wind_North.png)
 ![Regression Southern Hemisphere](/Weatherpy/output_data/Images/Lat_vs_Wind_South.png)
 
-VACATION PY
+##VACATION PY
+
 For this part we create a map plotting all the random cities in the map. The points are proportional to the level of humidity in the city. 
 
 ![Cities in the world](/Weatherpy/output_data/Images/Cities_around_the_world.png) 
